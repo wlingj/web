@@ -1,0 +1,116 @@
+
+   .dibu{
+     margin:auto;
+     width:100%;
+     height:251px;
+     min-width:1000px;
+      background-image:url(../img/batten-back1.png);
+   }
+   .zhongjian{
+     width:1000px;
+     height:200px;
+     margin:auto;
+
+   }
+   .zhongjian-1{
+    width:600px;
+    height:240px;
+    /* background-color:red; */
+    float: right;
+   }
+  .dibutu{
+    width: 300px;
+    height: 230px;
+    background-image:url(../img/batten-logo1.png);
+    float: left;
+    position:relative;
+  }
+  .dibutu p{
+    color: #979797;
+    position: absolute;
+    left: 130px;
+    top: 136px;
+    font-size: 13px;
+  }
+   .dibutu span{
+    color:#979797;
+    position:absolute;
+    left: 130px;
+    top: 175px;
+    font-size: 13px;
+  }
+   .dibu-1{
+    width:300px;
+    height:100px;
+    display: inline-block;
+  }
+  .dibu-2{
+    width: 100%;
+    height: 113px;
+    min-width: 1000px;
+    margin-top: -3px;
+    background-image: url(../img/batten-back-2.png);
+  }
+  .dibu-3{
+   width:100%;
+   height:80px;
+   min-width:1000px;
+   background-image:url(../img/batten-back2.png);
+  }
+  .dibu-4{
+    width:100%;
+    height:150px;
+    min-width:1000px;
+    background-image:url(../img/batten-back3.png);
+  }
+ .zt p{
+    color:#fff;
+    margin-left:87px;
+    margin-top:55px;
+    display: inline-block;
+  }
+ .zt2 p{
+    color:#7f7f7f;
+    margin-left:138px;
+    margin-top:22px;
+    display: inline-block;
+  }
+
+    .tu1-1{
+  width:300px;
+  height:230px;
+  display: inline-block;
+   }
+  .dibu-1-2{
+    width:600px;
+    height:300px;
+       float: left;
+ }
+
+ .xyc{
+  width:150px;
+}
+.xyc a{
+    color:#979797;
+}
+ .dibu-1-2>div{
+    float: left;
+    margin-top:5px;
+ }
+ .xyc p{
+  width:140px;
+  height: 20px;
+  color:#fff;
+  background-color:#000;
+ }
+ .xyc li{
+      margin-top:9px;
+      font-size:12px;
+ }
+
+ .xyc:hover p{
+ background-color:#676767;
+ }
+.xyc ul li:hover{
+   background-color:#676767;
+}
